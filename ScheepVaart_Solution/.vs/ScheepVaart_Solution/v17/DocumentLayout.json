@@ -1,12 +1,197 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart_Solution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\software_ontwerp\\scheepvaart\\scheepvaart\\scheepvaart_solution\\scheepvaartbl\\models\\rederijen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|solutionrelative:scheepvaartbl\\models\\rederijen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\software_ontwerp\\scheepvaart\\scheepvaart\\scheepvaart_solution\\scheepvaartbl\\models\\vloten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|solutionrelative:scheepvaartbl\\models\\vloten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\software_ontwerp\\scheepvaart\\scheepvaart\\scheepvaart_solution\\scheepvaartbl\\models\\schepen\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|solutionrelative:scheepvaartbl\\models\\schepen\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\software_ontwerp\\scheepvaart\\scheepvaart\\scheepvaart_solution\\scheepvaartbl\\models\\schepen\\soorten\\vracht\\roro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|solutionrelative:scheepvaartbl\\models\\schepen\\soorten\\vracht\\roro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\software_ontwerp\\scheepvaart\\scheepvaart\\scheepvaart_solution\\scheepvaartbl\\models\\schepen\\soorten\\vracht\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|solutionrelative:scheepvaartbl\\models\\schepen\\soorten\\vracht\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\software_ontwerp\\scheepvaart\\scheepvaart\\scheepvaart_solution\\scheepvaartbl\\models\\schepen\\soorten\\vracht\\tank\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|solutionrelative:scheepvaartbl\\models\\schepen\\soorten\\vracht\\tank\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\software_ontwerp\\scheepvaart\\scheepvaart\\scheepvaart_solution\\scheepvaartbl\\models\\schepen\\soorten\\vracht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|solutionrelative:scheepvaartbl\\models\\schepen\\soorten\\vracht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\software_ontwerp\\scheepvaart\\scheepvaart\\scheepvaart_solution\\scheepvaartbl\\models\\schepen\\soorten\\sleepboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|solutionrelative:scheepvaartbl\\models\\schepen\\soorten\\sleepboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\software_ontwerp\\scheepvaart\\scheepvaart\\scheepvaart_solution\\scheepvaartbl\\models\\schepen\\soorten\\vervoer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|solutionrelative:scheepvaartbl\\models\\schepen\\soorten\\vervoer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\software_ontwerp\\scheepvaart\\scheepvaart\\scheepvaart_solution\\scheepvaartbl\\scheepvaartbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|solutionrelative:scheepvaartbl\\scheepvaartbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\software_ontwerp\\scheepvaart\\scheepvaart\\scheepvaart_solution\\scheepvaartbl\\scheepvaartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DD541E-6F2C-47FB-AF42-1537ADC6FD36}|ScheepvaartBL\\ScheepvaartBL.csproj|solutionrelative:scheepvaartbl\\scheepvaartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rederijen.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Rederijen.cs",
+              "RelativeDocumentMoniker": "ScheepvaartBL\\Models\\Rederijen.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Rederijen.cs",
+              "RelativeToolTip": "ScheepvaartBL\\Models\\Rederijen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:59:01.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vloten.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Vloten.cs",
+              "RelativeDocumentMoniker": "ScheepvaartBL\\Models\\Vloten.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Vloten.cs",
+              "RelativeToolTip": "ScheepvaartBL\\Models\\Vloten.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:58:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoRo.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\RoRo.cs",
+              "RelativeDocumentMoniker": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\RoRo.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\RoRo.cs",
+              "RelativeToolTip": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\RoRo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:58:18.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\Container.cs",
+              "RelativeDocumentMoniker": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\Container.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\Container.cs",
+              "RelativeToolTip": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\Container.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:58:10.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\Tank\\Tank.cs",
+              "RelativeDocumentMoniker": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\Tank\\Tank.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\Tank\\Tank.cs",
+              "RelativeToolTip": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht\\Tank\\Tank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:57:46.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sleepboot.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Sleepboot.cs",
+              "RelativeDocumentMoniker": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Sleepboot.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Sleepboot.cs",
+              "RelativeToolTip": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Sleepboot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:57:08.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vervoer.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Vervoer.cs",
+              "RelativeDocumentMoniker": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Vervoer.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Vervoer.cs",
+              "RelativeToolTip": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Vervoer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:56:59.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vracht.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht.cs",
+              "RelativeDocumentMoniker": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht.cs",
+              "RelativeToolTip": "ScheepvaartBL\\Models\\Schepen\\Soorten\\Vracht.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:56:46.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Ship.cs",
+              "RelativeDocumentMoniker": "ScheepvaartBL\\Models\\Schepen\\Ship.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\Models\\Schepen\\Ship.cs",
+              "RelativeToolTip": "ScheepvaartBL\\Models\\Schepen\\Ship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:56:14.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScheepvaartBL.csproj",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\ScheepvaartBL.csproj",
+              "RelativeDocumentMoniker": "ScheepvaartBL\\ScheepvaartBL.csproj",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\ScheepvaartBL.csproj",
+              "RelativeToolTip": "ScheepvaartBL\\ScheepvaartBL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T08:55:44.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScheepvaartManager.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\ScheepvaartManager.cs",
+              "RelativeDocumentMoniker": "ScheepvaartBL\\ScheepvaartManager.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Software_Ontwerp\\scheepvaart\\ScheepVaart\\ScheepVaart_Solution\\ScheepvaartBL\\ScheepvaartManager.cs",
+              "RelativeToolTip": "ScheepvaartBL\\ScheepvaartManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:55:42.019Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
